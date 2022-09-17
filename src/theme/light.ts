@@ -1,0 +1,16 @@
+export default {
+  COLORS: {
+    BACKGROUND: "#FFFFFF",
+
+    PRIMARY_900: "#272A37",
+    PRIMARY_800: "#323644",
+    PRIMARY_700: "#A8F94A3",
+    PRIMARY_600: "#00ADE1",
+
+    INFO: "#1D90F5",
+
+    TEXT_PRIMARY: "#FFF",
+    TEXT_SECONDARY: "#080808",
+    TEXT_PRIMARY_BORDER: "#6959CD",
+  },
+};
